@@ -48,12 +48,8 @@ A vibrant **pure HTML + CSS** city skyline illustration featuring colorful build
 
   
 git clone https://github.com/rohnroy0/city-skyline-css-art.git
-cd city-skyline-css-art
 
-Then simply open index.html in your browser:
-open index.html    # macOS
-start index.html   # Windows
-xdg-open index.html # Linux
+
 
 ---
 
@@ -77,7 +73,7 @@ Inspired by minimalist CSS art and front-end layout design challenges. It's a cr
 Feel free to fork the repo, improve building designs, add animations or new visual effects, and submit a pull request!
 
 📄 License
-This project is open-source under the MIT License.
+ - This project is open-source under the MIT License.
 
 ✨ Author
-Made with ❤️ by @rohnroy0
+ - Made with ❤️ by @rohnroy0
