@@ -6,8 +6,7 @@ A vibrant **pure HTML + CSS** city skyline illustration featuring colorful build
 
 ## 🔗 Links
 
-- 🌐 **Live Site**: [https://rohnroy0.github.io/city-skyline-css-art/](https://rohnroy0.github.io/city-skyline-css-art/) *(enable GitHub Pages under repo settings > Pages > Branch: `main` > `/ (root)`)*
-
+- 🌐 **Live Site**: [https://rohnroy0.github.io/city-skyline-css-art/](https://rohnroy0.github.io/city-skyline-css-art/) 
 ---
 
 ## 🌟 Features
@@ -33,7 +32,7 @@ A vibrant **pure HTML + CSS** city skyline illustration featuring colorful build
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your project here if you like)*
+
 
 | Light Mode | Dark Mode (Mobile) |
 |------------|--------------------|
