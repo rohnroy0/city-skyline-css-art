@@ -37,7 +37,7 @@ A vibrant **pure HTML + CSS** city skyline illustration featuring colorful build
 
 | Light Mode | Dark Mode (Mobile) |
 |------------|--------------------|
-| ![Light](screenshot-light.png) | ![Dark](screenshot-dark.png) |
+| ![Light](https://github.com/rohnroy0/city-skyline-css-art/blob/main/preview06.2.png?raw=true) | ![Dark](https://github.com/rohnroy0/city-skyline-css-art/blob/main/preview06.1.png?raw=true) |
 
 ---
 
