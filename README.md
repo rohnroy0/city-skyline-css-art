@@ -40,12 +40,6 @@ A vibrant **pure HTML + CSS** city skyline illustration featuring colorful build
 
 ---
 
-## 🧾 File Structure
-
-city-skyline-css-art/
-├── index.html # HTML structure for buildings and sky
-├── styles.css # All building + sky styling
-└── README.md # Project overview
 
 
 ---
